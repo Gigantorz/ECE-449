@@ -1,0 +1,3 @@
+the [process](https://dictionary.cambridge.org/dictionary/english/process "process") of getting or [producing](https://dictionary.cambridge.org/dictionary/english/produce "producing") something, [especially](https://dictionary.cambridge.org/dictionary/english/especially "especially") [information](https://dictionary.cambridge.org/dictionary/english/information "information") or a [reaction](https://dictionary.cambridge.org/dictionary/english/reaction "reaction"):
+
+In requirements engineering, requirements elicitation is **the practice of researching and discovering the requirements of a system from users, customers, and other stakeholders**. The practice is also sometimes referred to as "requirement gathering".
